@@ -1,0 +1,14 @@
+{
+  "name": "nodecrawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matt Kerchner <manafount@gmail.com> (https://mkerch.io/)",
+  "license": "ISC",
+  "dependencies": {
+    "crawler": "1.0.5"
+  }
+}
